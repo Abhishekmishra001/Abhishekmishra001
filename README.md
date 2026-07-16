@@ -6,15 +6,28 @@
 <td valign="top">
 
 ```bash
-abhishek@dev-machine:~$ whoami
+abhishek@
 ```
 
 ### Full-Stack MERN Developer
 
-`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB`
+* Frontend    JavaScript · TypeScript · React.js · Next.js
+*             Redux Toolkit · React Query · HTML5 · CSS3
+*             Tailwind CSS · Bootstrap · Material UI · Paper.js
+*             Responsive Design · Cross Browser · Jest
+|
+* Backend     Node.js · Express.js · MongoDB · Mongoose
+*             REST APIs · JWT Authentication · Firebase Auth
+*             Bcrypt · Socket.IO · WebSockets · RBAC
+|
+* Tools       Git · GitHub · Postman · Docker · AWS EC2
+*             Netlify · Vercel · Vite · CI/CD
+*             Agile · Scrum · System Design
+|
+* Education   B.Tech in Computer Science & Engineering
 
-📍 India · abhishekmishra.dev
+📍 India · abhishekmishra001
 
 ```bash
-abhishek@dev-machine:~$ git log --graph --stacks/
+abhishek@
 ```
