@@ -5,11 +5,7 @@
 </td>
 <td valign="top">
 
-```bash
-abhishek@
-```
-
-### Full-Stack MERN Developer
+### Full-Stack MERN Developer | Bachelor of Technology - CSE (📍 India )
 
 ### Frontend
 
@@ -22,8 +18,3 @@ abhishek@
 ### DevOps & Tools
 
 `Git` `GitHub` `Postman` `Docker` `AWS EC2` `Netlify` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
-
-Bachelor of Technology - CSE (📍 India )
-
-```bash
-```
