@@ -1,12 +1,20 @@
 <table>
 <tr>
-<td width="320" valign="top">
+<td width="320">
 <img src="./code-image.jpeg" width="300" height="400">
 </td>
 <td valign="top">
 
 ```bash
-abhishek@dev-machine:~$ whoami
+abhishek@
 ```
 
 ### Full-Stack MERN Developer
+
+`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB`
+
+📍 India · abhishekmishra
+
+```bash
+abhishek@
+```
