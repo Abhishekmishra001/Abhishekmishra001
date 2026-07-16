@@ -11,10 +11,19 @@ abhishek@
 
 ### Full-Stack MERN Developer
 
-`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `CI/CD` `AWS` `Agile` `Github`
+### 🎨 Frontend
 
-📍 India · abhishekmishra001
-Bachelor of Technology - CSE
+`JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Paper.js` `Responsive Design` `Cross-Browser Compatibility` `Jest` `Unit Testing`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `JWT Authentication` `Firebase Authentication` `Bcrypt` `Socket.IO` `WebSockets` `RBAC`
+
+### ☁️ DevOps & Tools
+
+`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Netlify` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
+
+Bachelor of Technology - CSE (📍 India)
 
 ```bash
 abhishek@
