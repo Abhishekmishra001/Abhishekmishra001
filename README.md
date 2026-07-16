@@ -11,9 +11,10 @@ abhishek@
 
 ### Full-Stack MERN Developer
 
-`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB`
+`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `CI/CD` `AWS` `Agile` `Github`
 
-📍 India · abhishekmishra
+📍 India · abhishekmishra001
+Bachelor of Technology - CSE
 
 ```bash
 abhishek@
