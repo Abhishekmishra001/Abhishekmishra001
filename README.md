@@ -5,11 +5,11 @@
 </td>
 <td valign="top">
 
-### Full-Stack MERN Developer | Bachelor of Technology - CSE (📍 India )
+### Full-Stack Engineer | Bachelor of Technology - CSE
 
 ### Frontend
 
-`JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Paper.js` `Responsive Design` `Jest` `Unit Testing`
+`JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Paper.js` `Jest` `Unit Testing`
 
 ### Backend
 
@@ -17,4 +17,4 @@
 
 ### DevOps & Tools
 
-`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Netlify` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
+`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
