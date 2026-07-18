@@ -18,3 +18,8 @@
 ### DevOps & Tools
 
 `Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
+
+### AI & LLMs
+
+`Prompt Engineering` `OpenAI API` `Exploring Large Language Models (LLMs)`
+
