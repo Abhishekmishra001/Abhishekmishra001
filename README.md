@@ -5,17 +5,13 @@
 </td>
 <td valign="top">
 
-**Full-Stack Engineer | Bachelor of Technology - CSE**
+### Full-Stack Engineer | Bachelor of Technology - CSE
 
-**Frontend**
+### Frontend
 `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Paper.js` `Jest` `Unit Testing`
 
-**Backend**
+### Backend
 `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `JWT Authentication` `Firebase Authentication` `Bcrypt` `Socket.IO` `WebSockets` `RBAC`
 
-**DevOps & Tools**
-`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
-
-**AI & LLMs**
-`Prompt Engineering` `OpenAI API` `Exploring Large Language Models (LLMs)`
-
+### DevOps , Tools & AI & LLMs
+`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vite` `CI/CD` `Agile` `Scrum` `System Design` `Prompt Engineering` `OpenAI API` `Exploring Large Language Models (LLMs)`
