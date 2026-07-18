@@ -1,25 +1,21 @@
 <table>
 <tr>
 <td width="320">
-<img src="./code-image.jpeg" width="300" height="380">
+<img src="./code-image.jpeg" width="300" height="400">
 </td>
 <td valign="top">
 
-### Full-Stack Engineer | Bachelor of Technology - CSE
+**Full-Stack Engineer | Bachelor of Technology - CSE**
 
-### Frontend
-
+**Frontend**
 `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Paper.js` `Jest` `Unit Testing`
 
-### Backend
-
+**Backend**
 `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `JWT Authentication` `Firebase Authentication` `Bcrypt` `Socket.IO` `WebSockets` `RBAC`
 
-### DevOps & Tools
+**DevOps & Tools**
+`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
 
-`Git` `GitHub` `Postman` `Docker` `AWS EC2` `Vercel` `Vite` `CI/CD` `Agile` `Scrum` `System Design`
-
-### AI & LLMs
-
+**AI & LLMs**
 `Prompt Engineering` `OpenAI API` `Exploring Large Language Models (LLMs)`
 
