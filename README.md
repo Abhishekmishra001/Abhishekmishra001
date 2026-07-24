@@ -8,7 +8,7 @@
 ### Full-Stack Engineer | Bachelor of Technology - CSE
 
 ### Frontend
-`JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Jest` `Unit Testing`
+`JavaScript` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `React Query` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Jest` `Unit Testing`
 
 ### Backend
 `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `JWT Authentication` `Firebase Authentication` `Bcrypt` `Socket.IO` `WebSockets` `RBAC`
